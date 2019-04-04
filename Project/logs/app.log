@@ -1,0 +1,96 @@
+2019-02-26 15:53:26.759 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:18)] - Driver is initialized
+2019-02-26 15:53:30.434 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:20)] - Navigated to home page
+2019-02-26 15:53:31.465 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:60)] - taken screenshot
+2019-02-26 15:53:31.483 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:62)] - written it to: /Users/Yes/Desktop/Mixed
+2019-02-26 15:53:31.709 INFO [main] [com.academy.app.validateNavbarTest] [tearDown] [com.academy.app.validateNavbarTest.tearDown(validateNavbarTest.java:35)] - Closed and quit the browser
+2019-02-26 15:53:33.267 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 15:53:38.059 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 15:53:42.023 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 15:53:42.308 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:36)] - Entered email address
+2019-02-26 15:53:42.391 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:38)] - entered password
+2019-02-26 15:53:44.145 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 15:53:44.146 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:41)] - Test finished with parameters: nonrestricteduser@email.com | pass
+2019-02-26 15:53:44.352 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 15:53:45.774 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 15:53:48.454 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 15:53:51.795 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 15:53:52.106 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:36)] - Entered email address
+2019-02-26 15:53:52.246 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:38)] - entered password
+2019-02-26 15:53:53.960 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 15:53:53.960 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:41)] - Test finished with parameters: restricteduser@email.com | password
+2019-02-26 15:53:54.179 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 15:53:55.613 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:18)] - Driver is initialized
+2019-02-26 15:53:59.109 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:20)] - Navigated to home page
+2019-02-26 15:53:59.377 INFO [main] [com.academy.app.validateTitleTest] [tearDown] [com.academy.app.validateTitleTest.tearDown(validateTitleTest.java:35)] - Closed and quit the browser
+2019-02-26 17:37:05.568 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:18)] - Driver is initialized
+2019-02-26 17:37:09.934 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:20)] - Navigated to home page
+2019-02-26 17:37:11.028 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:60)] - taken screenshot
+2019-02-26 17:37:11.042 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:62)] - written it to: /Users/Yes/Desktop/Mixed
+2019-02-26 17:37:11.251 INFO [main] [com.academy.app.validateNavbarTest] [tearDown] [com.academy.app.validateNavbarTest.tearDown(validateNavbarTest.java:35)] - Closed and quit the browser
+2019-02-26 17:37:12.715 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 17:37:16.014 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 17:37:19.157 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 17:37:19.474 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:36)] - Entered email address
+2019-02-26 17:37:19.560 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:38)] - entered password
+2019-02-26 17:37:21.024 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 17:37:21.024 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:41)] - Test finished with parameters: nonrestricteduser@email.com | pass
+2019-02-26 17:37:21.195 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 17:37:22.504 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 17:37:25.911 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 17:37:29.170 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 17:37:29.399 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:36)] - Entered email address
+2019-02-26 17:37:29.506 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:38)] - entered password
+2019-02-26 17:37:31.122 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 17:37:31.123 INFO [main] [com.academy.app.HomePageTest] [basePageNavigation] [com.academy.app.HomePageTest.basePageNavigation(HomePageTest.java:41)] - Test finished with parameters: restricteduser@email.com | password
+2019-02-26 17:37:31.335 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 17:37:32.640 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:18)] - Driver is initialized
+2019-02-26 17:37:35.767 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:20)] - Navigated to home page
+2019-02-26 17:37:36.048 INFO [main] [com.academy.app.validateTitleTest] [tearDown] [com.academy.app.validateTitleTest.tearDown(validateTitleTest.java:35)] - Closed and quit the browser
+2019-02-26 17:50:27.483 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:18)] - Driver is initialized
+2019-02-26 17:50:31.504 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:20)] - Navigated to home page
+2019-02-26 17:50:32.326 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:60)] - taken screenshot
+2019-02-26 17:50:32.348 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:62)] - written it to: /Users/Yes/Desktop/Mixed
+2019-02-26 17:50:32.542 INFO [main] [com.academy.app.validateNavbarTest] [tearDown] [com.academy.app.validateNavbarTest.tearDown(validateNavbarTest.java:35)] - Closed and quit the browser
+2019-02-26 17:50:33.882 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 17:50:37.341 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 17:50:40.398 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 17:50:40.639 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:36)] - Entered email address
+2019-02-26 17:50:40.719 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:38)] - entered password
+2019-02-26 17:50:42.336 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 17:50:42.337 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:41)] - Test finished with parameters: nonrestricteduser@email.com | pass
+2019-02-26 17:50:42.495 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 17:50:43.913 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 17:50:48.548 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 17:50:51.810 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 17:50:52.052 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:36)] - Entered email address
+2019-02-26 17:50:52.148 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:38)] - entered password
+2019-02-26 17:50:53.864 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 17:50:53.865 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:41)] - Test finished with parameters: restricteduser@email.com | password
+2019-02-26 17:50:54.029 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 17:50:55.240 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:18)] - Driver is initialized
+2019-02-26 17:50:58.749 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:20)] - Navigated to home page
+2019-02-26 17:50:58.955 INFO [main] [com.academy.app.validateTitleTest] [tearDown] [com.academy.app.validateTitleTest.tearDown(validateTitleTest.java:35)] - Closed and quit the browser
+2019-02-26 18:29:10.500 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:18)] - Driver is initialized
+2019-02-26 18:29:13.930 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:20)] - Navigated to home page
+2019-02-26 18:29:14.951 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:60)] - taken screenshot
+2019-02-26 18:29:14.971 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:62)] - written it to: /Users/Yes/Desktop/Mixed
+2019-02-26 18:29:15.245 INFO [main] [com.academy.app.validateNavbarTest] [tearDown] [com.academy.app.validateNavbarTest.tearDown(validateNavbarTest.java:35)] - Closed and quit the browser
+2019-02-26 18:29:16.759 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 18:29:20.356 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 18:29:23.693 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 18:29:23.953 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:36)] - Entered email address
+2019-02-26 18:29:24.050 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:38)] - entered password
+2019-02-26 18:29:25.575 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 18:29:25.576 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:41)] - Test finished with parameters: nonrestricteduser@email.com | pass
+2019-02-26 18:29:25.813 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 18:29:27.434 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:20)] - Driver is initialized
+2019-02-26 18:29:30.690 INFO [main] [com.academy.app.HomePageTest] [setUp] [com.academy.app.HomePageTest.setUp(HomePageTest.java:22)] - Navigated to home page
+2019-02-26 18:29:33.955 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:32)] - Clicked on login link
+2019-02-26 18:29:34.201 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:36)] - Entered email address
+2019-02-26 18:29:34.306 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:38)] - entered password
+2019-02-26 18:29:35.891 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:40)] - Clicked on Go button
+2019-02-26 18:29:35.892 INFO [main] [com.academy.app.HomePageTest] [validateEmail] [com.academy.app.HomePageTest.validateEmail(HomePageTest.java:41)] - Test finished with parameters: restricteduser@email.com | password
+2019-02-26 18:29:36.115 INFO [main] [com.academy.app.HomePageTest] [tearDown] [com.academy.app.HomePageTest.tearDown(HomePageTest.java:63)] - Closed and quit the browser
+2019-02-26 18:29:37.528 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:18)] - Driver is initialized
+2019-02-26 18:29:41.565 INFO [main] [com.academy.app.validateTitleTest] [setUp] [com.academy.app.validateTitleTest.setUp(validateTitleTest.java:20)] - Navigated to home page
+2019-02-26 18:29:41.809 INFO [main] [com.academy.app.validateTitleTest] [tearDown] [com.academy.app.validateTitleTest.tearDown(validateTitleTest.java:35)] - Closed and quit the browser

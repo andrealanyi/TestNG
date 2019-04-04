@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="37.723" tests="4" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/Yes/eclipse-workspace/Project/target/test-classes:/Users/Yes/eclipse-workspace/Project/target/classes:/Users/Yes/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/Yes/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/Yes/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/Yes/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/Yes/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/Yes/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/Yes/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/Yes/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/Yes/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/Yes/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/Yes/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/Yes/.m2/repository/org/testng/testng/6.14.2/testng-6.14.2.jar:/Users/Yes/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/Yes/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/Yes/.m2/repository/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar:/Users/Yes/.m2/repository/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar:/Users/Yes/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/Yes/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar:/Users/Yes/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/Yes/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/Yes/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/Yes/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/Yes/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/Yes/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/Yes/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/Yes/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/Yes/.m2/repository/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar:/Users/Yes/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CH"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/Yes/eclipse-workspace/Project/target/surefire/surefirebooter6566835727887986789.jar /Users/Yes/eclipse-workspace/Project/target/surefire 2019-02-26T18-29-04_017-jvmRun1 surefire2898532498622419780tmp surefire_05100885272768957298tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/Yes/eclipse-workspace/Project/target/test-classes:/Users/Yes/eclipse-workspace/Project/target/classes:/Users/Yes/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/Yes/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/Yes/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/Yes/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/Yes/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/Yes/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/Yes/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/Yes/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/Yes/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/Yes/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/Yes/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/Yes/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/Yes/.m2/repository/org/testng/testng/6.14.2/testng-6.14.2.jar:/Users/Yes/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/Yes/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/Yes/.m2/repository/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar:/Users/Yes/.m2/repository/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar:/Users/Yes/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/Yes/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar:/Users/Yes/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/Yes/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/Yes/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/Yes/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/Yes/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/Yes/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/Yes/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/Yes/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/Yes/.m2/repository/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar:/Users/Yes/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/Yes"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/Yes/eclipse-workspace/Project"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/Yes/eclipse-workspace/Project/target/surefire/surefirebooter6566835727887986789.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="11.0.1+13-LTS"/>
+    <property name="user.name" value="Yes"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.14.3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="/Users/Yes/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/2k/cjslzwl11fn7gxnzt1pdrv8c0000gn/T/"/>
+    <property name="java.version" value="11.0.1"/>
+    <property name="user.dir" value="/Users/Yes/eclipse-workspace/Project"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/Yes/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.1+13-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="validateNavBar" classname="com.academy.app.validateNavbarTest" time="1.015">
+    <failure message="expected [false] but found [true]" type="java.lang.AssertionError">java.lang.AssertionError: expected [false] but found [true]
+	at com.academy.app.validateNavbarTest.validateNavBar(validateNavbarTest.java:27)
+</failure>
+    <system-out><![CDATA[2019-02-26 18:29:10.500 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:18)] - Driver is initialized
+2019-02-26 18:29:13.930 INFO [main] [com.academy.app.validateNavbarTest] [setUp] [com.academy.app.validateNavbarTest.setUp(validateNavbarTest.java:20)] - Navigated to home page
+2019-02-26 18:29:14.951 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:60)] - taken screenshot
+2019-02-26 18:29:14.971 INFO [main] [com.academy.app.Base] [getScreenshot] [com.academy.app.Base.getScreenshot(Base.java:62)] - written it to: /Users/Yes/Desktop/Mixed
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.45.615355 (d5698f682d8b2742017df6c81e0bd8e6a3063189) on port 36842
+Only local connections are allowed.
+Feb 26, 2019 6:29:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="validateEmail" classname="com.academy.app.HomePageTest" time="5.221"/>
+  <testcase name="validateEmail" classname="com.academy.app.HomePageTest" time="5.2"/>
+  <testcase name="validatePageTitle" classname="com.academy.app.validateTitleTest" time="0.044"/>
+</testsuite>

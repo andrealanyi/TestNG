@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.academy.app.Listeners"/>
+    <listener class-name="com.academy.app.ExtentTestNGIReporterListener"/>
+  </listeners>
+  <test name="validate navbar(failed)">
+    <classes>
+      <class name="com.academy.app.validateTitleTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.academy.app.validateTitleTest -->
+      <class name="com.academy.app.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.academy.app.HomePageTest -->
+      <class name="com.academy.app.validateNavbarTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="validateNavBar"/>
+        </methods>
+      </class> <!-- com.academy.app.validateNavbarTest -->
+    </classes>
+  </test> <!-- validate navbar(failed) -->
+</suite> <!-- Failed suite [Suite] -->
